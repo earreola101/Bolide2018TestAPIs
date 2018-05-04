@@ -1,9 +1,12 @@
-# Bolide2018TestAPIs
+# Bolide2018TestAPIs Edward Arreola
 import subprocess
 import sys,string,os
 import random
 from time import sleep
 from colorconsole import terminal
+
+API document
+# https://docs.google.com/document/d/1Ca1AW4Fv31_qzrmabcdhQMrKTkjqu-xY3QLzWUdTPRw/edit
 
 def class TVHUB
 	#table hub commands
